@@ -3,7 +3,10 @@
 This part contains papers of projects of edge or mobile system for ML.
 
 ## Project
-
+- Tensorflow Lite [[Docs]](https://www.tensorflow.org/lite/guide)
+- MicroTVM [[Docs]](https://tvm.apache.org/docs/api/python/micro.html)
+- uTensor [[Github Website]](https://utensor.github.io/website/)
+- TinyML Han Lab [[Website]](https://hanlab.mit.edu/projects/tinyml/)
 - deepC is a vendor independent deep learning library, compiler and inference framework designed for small form-factor devices including μControllers, IoT and Edge devices[[GitHub]](https://github.com/ai-techsystems/deepC)
 - Tengine, developed by OPEN AI LAB, is an AI application development platform for AIoT scenarios launched by OPEN AI LAB, which is dedicated to solving the fragmentation problem of aiot industrial chain and accelerating the landing of AI industrialization. [[GitHub]](https://github.com/OAID/Tengine)
 - Mobile Computer Vision @ Facebook [[GitHub]](https://github.com/facebookresearch/mobile-vision)
@@ -14,7 +17,9 @@ This part contains papers of projects of edge or mobile system for ML.
 - Tencent/TNN: [[Github]](https://github.com/Tencent/TNN)
 
 ## Survey
-
+-  BENCHMARKING TINYML SYSTEMS: CHALLENGES AND DIRECTION [[Paper]](https://arxiv.org/pdf/2003.04821.pdf)
+	- Banbury, C. R., Reddi, V. J., Lam, M., Fu, W., Fazel, A., et al. (2020)
+	- arXiv preprint arXiv:2003.04821, 2020.
 -  Convergence of edge computing and deep learning: A comprehensive survey. [[Paper]](https://arxiv.org/pdf/1907.08349)
     - Wang, X., Han, Y., Leung, V. C., Niyato, D., Yan, X., & Chen, X. (2020).
     - IEEE Communications Surveys & Tutorials, 22(2), 869-904.
@@ -30,7 +35,16 @@ This part contains papers of projects of edge or mobile system for ML.
 
 ## Edge AI Paper
 
-- Modeling of Deep Neural Network (DNN) Placement and Inference in Edge Computing. [[GitHub]](https://arxiv.org/pdf/2001.06901.pdf)
+- MicroNets: Neural Network Architectures for Deploying TinyML Applications on Commodity Microcontrollers. [[Paper]](https://proceedings.mlsys.org/paper/2021/file/a3c65c2974270fd093ee8a9bf8ae7d0b-Paper.pdf) [[Github]](https://github.com/ARM-software/ML-zoo)
+	- Colby Banbury, Chuteng Zhou, Igor Fedorov, Ramon Matas, Urmish Thakker, Dibakar Gope, Vijay Janapa Reddi, Matthew Mattina, Paul Whatmough
+	- Proceedings of Machine Learning and Systems 3 pre-proceedings (MLSys 2021)
+- MCUNet: Tiny Deep Learning on IoT Devices. [[Paper]](https://arxiv.org/abs/2007.10319)
+	- Ji Lin, Wei-Ming Chen, Yujun Lin, John Cohn, Chuang Gan, Song Han
+	- arXiv preprint arXiv:2007.10319. 
+- TinyLSTMs: Efficient Neural Speech Enhancementfor Hearing Aids. [[Paper]](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1864.html)
+	- Fedorov, I., Stamenovic, M., Jensen, C., Yang, et al.
+	- In Proc. Interspeech 2020, pp. 4054–4058, 2020. 
+- Modeling of Deep Neural Network (DNN) Placement and Inference in Edge Computing. [[Paper]](https://arxiv.org/pdf/2001.06901.pdf)
     - Bensalem, M., Dizdarević, J. and Jukan, A., 2020.
     - arXiv preprint arXiv:2001.06901. 
 - Latency and Throughput Characterization of Convolutional Neural Networks for Mobile Computer Vision [[Paper]](https://arxiv.org/pdf/1803.09492.pdf)
